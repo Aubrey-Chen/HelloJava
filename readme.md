@@ -1,5 +1,10 @@
-## Java语法
-### 基本概念
+# Java语法
+## 1.  安装环境
+### 1.1 安装IDEA
+#### 官方下载地址：https://www.jetbrains.com/zh-cn/idea/download/#section=windows
+#### 下载专业版（Ultimate版）
+***
+### 2. 基本概念
 ### JDK、JRE、JVM的关系：
 #### JDK：Java Development Kit，Java开发工具包
 #### JRE: Java Runtime Environment，Java运行环境
@@ -17,3 +22,13 @@
 #### JME: Java Mirco Edition，移动版
 #### Spring是JEE的轻量级替代品
 #### SpringBoot是Spring + 自动化配置
+***
+## 3. Java语法
+### 3.1 变量、运算符、输入与输出
+### 3.2 判断语句
+### 3.3 循环语句
+### 3.4 数组
+### 3.5 字符串
+### 3.6 函数
+### 3.7 类与接口
+### 3.8 常用容器
